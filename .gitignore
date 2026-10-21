@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+instance/*.db
+uploads/*
+!uploads/.gitkeep
+.pytest_cache/
